@@ -1,0 +1,237 @@
+
+a:hover {
+	color:#F33535;
+}
+.title-box-full {
+	background:#F33535;
+}
+.title-box {
+	background:#F33535;
+}
+.title-box:before {
+	border-color:transparent #F33535;
+}
+.page-preloader .status {
+	color:#F33535;
+}
+.page-preloader .status span {
+	color:#F33535;
+}
+.inverted-color {
+	color:#F33535 !important;
+}
+header {
+	border-color:#F33535;
+}
+.social_icons_header li:hover a {
+	color:#F33535 !important;
+}
+nav.navigation .nav>li a:after {
+	background:#F33535;
+}
+.btn-slider:hover {
+	background:#F33535 !important;
+	border-color:#F33535;
+}
+.service-box .icon-holder {
+	border-color:#F33535;
+	color:#F33535;
+}
+.service-box-2 .icon-holder {
+	border-color:#F33535;
+	color:#F33535;
+}
+.service-box-3 .icon-holder {
+	color:#F33535;
+}
+.slogan-box .btn-slogan:hover {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.about-box .icon-holder {
+	border-color:#F33535;
+	color:#F33535;
+}
+.team_arrows .teamprevbtn:hover,.team_arrows .teamnextbtn:hover {
+	color:#CA2B2B;
+}
+.gallery_arrows .galleryprevbtn:hover,.gallery_arrows .gallerynextbtn:hover {
+	color:#CA2B2B;
+}
+.portfolio-zoom:hover,.portfolio-zoom:focus,.portfolio-more:hover,.portfolio-more:focus,.gallery-zoom:hover,.gallery-zoom:focus {
+	border-color:#F33535;
+	background:#F33535;
+}
+.contact_form .btn-form {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.contact_form .btn-form:hover {
+	border-color:#F33535;
+}
+.subscribe-form .btn-form {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.subscribe-form .btn-form:hover {
+	border-color:#F33535;
+}
+.post_tags_list ul li a:hover,.post_tags_list ul li a:focus {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.response_form .btn-form {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.response_form .btn-form:hover {
+	border-color:#F33535;
+}
+.comment_response .media h6 {
+	color:#F33535;
+}
+.comment_response .media h6 a {
+	color:#F33535;
+}
+.comment_response .media_cloud a.reply_link {
+	color:#F33535;
+}
+.pagination_box_holder ul li a:hover,.pagination_box_holder ul li a:focus {
+	background-color:#F33535;
+	border-color:#CA2B2B;
+}
+footer .social-footer li:hover a {
+	color:#F33535 !important;
+	border-color:#F33535;
+}
+footer .scroll-top:hover {
+	color:#F33535;
+	border-color:#F33535;
+}
+.categories_list ul li a:hover,.categories_list ul li a:focus {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.sidebar_tags_list ul li a:hover,.sidebar_tags_list ul li a:focus {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.thumbs li a:hover {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+.shop-list .shop-desc .shop-star-rating li.full-star {
+	color:#F33535;
+}
+.ui-slider .ui-slider-handle {
+	border-color:#F33535;
+}
+.ui-widget-header {
+	background:#F33535;
+}
+.review_response .media h6 {
+	color:#F33535;
+}
+.review_response .media h6 a {
+	color:#F33535;
+}
+.review_response .media_cloud .shop-star-rating li.full-star {
+	color:#F33535;
+}
+.shop-single-page .review_response .title .shop-star-rating li.full-star {
+	color:#F33535;
+}
+ul.pricing-table li.pricing-price {
+	color:#F33535;
+}
+ul.pricing-table li.sign-up-button a.btn {
+	background:#F33535;
+	border-color:#F33535;
+}
+ul.pricing-table li.sign-up-button a.btn:hover {
+	border-color:#F33535;
+	color:#F33535;
+}
+ul.pricing-table.special-table {
+	border-color:#CA2B2B;
+	background:#F33535;
+}
+ul.pricing-table.special-table li.pricing-title {
+	border-color:#CA2B2B;
+}
+ul.pricing-table.special-table li.even {
+	background:#CA2B2B;
+}
+ul.pricing-table.special-table li.odd {
+	background:#F33535;
+}
+ul.pricing-table.special-table li.sign-up-button {
+	background:#F33535;
+	border-color:#CA2B2B;
+}
+ul.pricing-table.special-table li.sign-up-button a.btn {
+	background:#CA2B2B;
+	border-color:#CA2B2B;
+}
+.featured-number-box .icon-holder {
+	border-color:#F33535;
+	color:#F33535;
+}
+.btn-theme {
+	border-color:#F33535;
+	background:#F33535;
+}
+.btn-theme:hover,.btn-theme:focus {
+	border-color:#F33535;
+	color:#F33535;
+}
+.blockquote-box blockquote {
+	border-color:#F33535;
+}
+.blockquote-box blockquote span.blockquote-icon {
+	background:#F33535;
+}
+.panel-default>.panel-heading:hover {
+	color:#F33535;
+	border-color:#F33535;
+}
+.panel-default>.panel-heading.active {
+	color:#F33535;
+}
+.panel-default>.panel-heading.active:hover {
+	color:#F33535;
+	border-color:#F33535;
+}
+.slicknav_nav {
+	background:#F33535;
+}
+.slicknav_btn {
+	background:#F33535;
+}
+.slicknav_nav .slicknav_row:hover {
+	color:#F33535;
+}
+.slicknav_nav .slicknav_item:hover {
+	color:#F33535 !important;
+}
+.slicknav_nav .slicknav_item:hover a {
+	color:#F33535 !important;
+}
+.slicknav_nav a:hover {
+	color:#F33535;
+}
+.owl-theme .owl-controls .owl-nav .owl-prev:hover,.owl-theme .owl-controls .owl-nav .owl-next:hover {
+	background-color:#F33535;
+	border-color:#CA2B2B;
+}
+.tp-bannertimer {
+	background:#F33535 !important;
+}
+.tparrows:hover {
+	border-color:#F33535;
+	background:#F33535 !important;
+}
+.selecter .selecter-item:hover,.selecter .selecter-item.selected:hover {
+	background-color: #F33535 !important;
+}
+

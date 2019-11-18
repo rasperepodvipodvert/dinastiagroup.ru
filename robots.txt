@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: https://biz4people.ru/sitemap.xml
+Host: https://biz4people.ru

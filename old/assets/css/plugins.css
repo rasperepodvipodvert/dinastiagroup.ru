@@ -1,0 +1,350 @@
+/*=======================================================
+ 1. SlickNav
+======================================================= 
+*/
+.slicknav_menu .slicknav_icon {
+	float:right;
+}
+.slicknav_btn {
+	margin:0;
+	text-decoration:none;
+	text-shadow:0 0 0 transparent;
+	width:100%;
+	background-color:transparent;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border-style: solid;
+    border-width: 0;
+}
+.portfolio-filter-box .slicknav_btn {
+	border-width: 1px;
+	border-color: #ffffff;
+}
+.slicknav_btn.slicknav_open {
+	-moz-border-radius:4px 4px 0 0;
+	-webkit-border-radius:4px 4px 0 0;
+	border-radius:4px 4px 0 0;
+}
+.slicknav_menu .slicknav_menutxt {
+	text-shadow:0 0 0 transparent;
+}
+.slicknav_menu {
+	background:transparent;
+	padding:0;
+	display:none;
+	position:relative;
+}
+.slicknav_nav {
+	position:absolute;
+	z-index:9999;
+	top:100%;
+	border-style: solid;
+    border-width:0;
+}
+.portfolio-filter-box .slicknav_nav {
+	border-width:0 1px 1px 1px;
+	border-color: #ffffff;
+}
+.slicknav_nav ul,.slicknav_nav li {
+	display:block;
+	float:left;
+	width:100%;
+}
+.slicknav_nav .slicknav_row {
+	margin:0;
+}
+.slicknav_nav a {
+	margin:0;
+	display:block;
+	float:left;
+	width:100%;
+}
+.slicknav_nav .slicknav_row:hover {
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+	background:#ffffff;
+}
+.slicknav_nav .slicknav_item:hover {
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+	background:#ffffff;
+}
+.slicknav_nav a:hover {
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius: 0;
+	background:#ffffff;
+}
+/*
+=======================================================
+ 2. Owl Carousel
+======================================================= 
+*/
+.owl-carousel {
+	padding:0 48px;
+}
+.team-box .owl-carousel {
+	padding:0;
+}
+.gallery-slider.owl-carousel {
+	padding:0;
+}
+.owl-carousel .owl-stage-outer {
+	z-index:9999;
+}
+.owl-theme .owl-controls {
+	margin-top:0;
+	text-align:center;
+}
+.owl-theme .owl-controls .owl-nav {
+	top:0px;
+	position:absolute;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:1 !important;
+}
+.owl-theme .owl-controls .owl-nav div {
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+	position:absolute;
+	padding:0;
+	margin:0;
+	top:0;
+	height:100%;
+	z-index:1;
+	width:40px;
+	font-size:30px;
+	line-height:1;
+	border-style:solid;
+	border-width:1px 2px 1px 1px;
+	text-align:center;
+	background:#fff;
+	filter:Alpha(Opacity=100);
+	opacity:1;
+	color:#bbbbbb;
+	border-color:#e8e8e9;
+	background:#ffffff;
+}
+.owl-theme .owl-controls .owl-nav div i {
+	margin:-16px 0 0;
+	top:50%;
+	width:37px;
+	left:0;
+	position:absolute;
+	text-align:center;
+}
+.owl-theme .owl-controls .owl-nav .owl-prev {
+	left:0;
+	-moz-border-radius:0 5px 5px 0;
+	-webkit-border-radius:0 5px 5px 0;
+	border-radius:0 5px 5px 0;
+	border-style:solid;
+	border-width:1px 2px 1px 1px;
+	border-color:#e8e8e9;
+}
+.owl-theme .owl-controls .owl-nav .owl-next {
+	right:0;
+	-moz-border-radius:5px 0 0 5px;
+	-webkit-border-radius:5px 0 0 5px;
+	border-radius:5px 0 0 5px;
+	border-style:solid;
+	border-width:1px 1px 1px 2px;
+	border-color:#e8e8e9;
+}
+.owl-theme .owl-controls .owl-nav .owl-prev:hover,.owl-theme .owl-controls .owl-nav .owl-next:hover {
+	color:#ffffff;
+}
+.owl-theme .owl-controls.clickable .owl-nav div:hover {
+	filter:Alpha(Opacity=100);
+	opacity:1;
+	text-decoration: none;
+}
+/*
+=======================================================
+ 3. Slider Revolution
+======================================================= 
+*/
+.tp-bannertimer {
+	height:5px !important;
+	bottom:0 !important;
+	top:auto !important;
+}
+.tparrows:before {
+	font-family:'revicons';
+	font-style:normal;
+	font-weight:normal;
+	speak:none;
+	display:inline-block;
+	text-decoration:inherit;
+	margin-right:0;
+	margin-top:9px;
+	text-align:center;
+	width:40px;
+	font-size:20px;
+	line-height:1;
+	padding-right:3px;
+	color:#ffffff;
+}
+.tparrows {
+	cursor:pointer;
+	background:transparent !important;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	width:40px !important;
+	height:40px !important;
+	border-style:solid;
+	border-width:1px;
+	border-color:#ffffff;
+}
+.tp-leftarrow:before {
+	content:'\e824';
+}
+.tp-rightarrow:before {
+	content:'\e825';
+}
+.tparrows.tp-rightarrow:before {
+	margin-left: 1px;
+}
+.tparrows:hover {
+	color:#ffffff;
+}
+.tparrows:hover:before {
+	color:#ffffff;
+	background: transparent !important;
+}
+/*
+=======================================================
+ 4. FS Selecter
+======================================================= 
+*/
+.selecter {
+	float:left;
+	width:100% !important;
+	margin:0 !important;
+	max-width:100% !important;
+	position:relative !important;
+}
+.selecter-selected {
+	width:100%;
+	height:45px;
+	margin:0 !important;
+	font-size:13px !important;
+	line-height:1.428571429 !important;
+	padding:12px 15px 11px !important;
+	vertical-align:middle !important;
+	border-style:solid !important;
+	border-width:1px !important;
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+	border-radius:0px !important;
+	box-shadow:0 0px 0px transparent !important;
+	position:relative !important;
+	background:#ffffff !important;
+	color:#808080 !important;
+	border-color:#e8e8e9 !important;
+}
+.selecter-selected:before {
+	top:14px;
+	font-family:'FontAwesome';
+	content:"\f103";
+	right:15px;
+	font-size:15px;
+	line-height:1;
+	position:absolute;
+	z-index:99;
+}
+.selecter-options {
+	border-style:solid !important;
+	border-width:0 1px 1px 1px !important;
+	width:100% !important;
+	padding:0 !important;
+	box-shadow:0 0px 0px transparent !important;
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+	border-radius:0px !important;
+	border-color:#e8e8e9!important;
+	background:#ffffff !important;
+}
+.selecter-item {
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+	border-radius:0px !important;
+	border:0 !important;
+	margin:0 !important;
+	font:11px !important;
+	line-height:1 !important;
+	padding: 10px 12px !important;
+	background:#ffffff !important;
+	color:#808080 !important;
+}
+.selecter-selected:after {
+    display:none;
+}
+.selecter .selecter-item:hover,.selecter .selecter-item.selected:hover {
+	color: #ffffff !important;
+}
+/*
+=======================================================
+ 5. FlexSlider
+======================================================= 
+*/
+.flexslider {
+	margin:0 0 0;
+	background:transparent;
+	border:0;
+	position:relative;
+	zoom:1;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+	-webkit-box-shadow:0 0 0 transparent;
+	-moz-box-shadow:0 0 0 transparent;
+	-o-box-shadow:0 0 0 transparent;
+	box-shadow:0 0 0 transparent;
+}
+.testimonial-slider .flex-control-nav {
+	bottom:-42px;
+	left:0;
+}
+.portfolio-item-slider .flex-control-nav {
+	bottom:20px;
+	left:0;
+}
+.phone-slider .flex-control-nav {
+	bottom:auto;
+	top:-26px;
+	left:0;
+}
+.flex-control-paging li a {
+	width:11px;
+	height:11px;
+	display:block;
+	background:transparent;
+	-webkit-box-shadow:0 0 0 transparent;
+	-moz-box-shadow:0 0 0 transparent;
+	-o-box-shadow:0 0 0 transparent;
+	box-shadow:0 0 0 transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#ffffff;
+}
+.flex-control-paging li a:hover {
+	background:#ffffff;
+}
+.flex-control-paging li a.flex-active {
+	background:#ffffff;
+}
+.phone-slider .flex-control-paging li a {
+	border-color:#e8e8e9;
+}
+.phone-slider .flex-control-paging li a:hover {
+	background:#e8e8e9;
+}
+.phone-slider .flex-control-paging li a.flex-active {
+	background: #e8e8e9;
+}
